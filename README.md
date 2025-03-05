@@ -1,7 +1,7 @@
 # Exploring Per Capita CO₂ Emissions
 
 ## Overview
-This project analyzes and visualizes per capita CO₂ emissions data from Our World in Data (downloaded March 05, 2025), spanning 1750–2023. It features **10 distinct D3.js visualizations**, each exploring different aspects of the dataset, from global trends to complex regional comparisons. The goal is to showcase data analysis and visualization skills while uncovering insights into global CO₂ emissions patterns.
+This project analyzes and visualizes per capita CO₂ emissions data from Our World in Data (downloaded March 05, 2025), spanning 1750–2023. It features **D3.js visualizations**, each exploring different aspects of the dataset, from global trends to complex regional comparisons. The goal is to showcase data analysis and visualization skills while uncovering insights into global CO₂ emissions patterns.
 
 ## Dataset
 - **Source**: Our World in Data, "Per capita CO₂ emissions" (Global Carbon Budget 2024, Population from various sources)
