@@ -1,4 +1,4 @@
-# Exploring Per Capita CO₂ Emissions: Ten Interactive Visualizations with D3.js
+# Exploring Per Capita CO₂ Emissions
 
 ## Overview
 This project analyzes and visualizes per capita CO₂ emissions data from Our World in Data (downloaded March 05, 2025), spanning 1750–2023. It features **10 distinct D3.js visualizations**, each exploring different aspects of the dataset, from global trends to complex regional comparisons. The goal is to showcase data analysis and visualization skills while uncovering insights into global CO₂ emissions patterns.
@@ -8,26 +8,6 @@ This project analyzes and visualizes per capita CO₂ emissions data from Our Wo
 - **Columns**: `Entity`, `Code`, `Year`, `Annual CO₂ emissions (per capita)` (tonnes/person)
 - **Scope**: 1750–2023, territorial emissions (excludes land-use change, international aviation/shipping)
 - **File**: `data/co2_emissions_per_capita.csv`
-
-## Project Structure
-├── data/
-│   └── co2_emissions_per_capita.csv
-├── src/
-│   ├── viz1_line_global/        # Global trend line chart
-│   ├── viz2_multi_line/         # Multi-entity comparison
-│   ├── viz3_bar_top10/          # Top 10 emitters 2023
-│   ├── viz4_area_africa/        # Africa emissions trend
-│   ├── viz5_scatter/            # Scatter plot across entities
-│   ├── viz6_stacked_bar/        # Stacked regional trends
-│   ├── viz7_pie/                # Top 5 emitters pie chart
-│   ├── viz8_heatmap/            # Heatmap by region/decade
-│   ├── viz9_force_directed/     # Force-directed top emitters
-│   ├── viz10_treemap/           # Continental treemap 2023
-│   └── styles.css               # Shared styling
-├── README.md
-└── results/
-    └── analysis_summary.md      # Optional analysis output
-
 
 ## Visualizations
 1. **Line Chart**: Global CO₂ emissions trend (1750–2023).
